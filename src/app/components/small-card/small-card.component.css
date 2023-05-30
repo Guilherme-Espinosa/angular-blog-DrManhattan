@@ -23,4 +23,5 @@
 
 .container__small-card__separator{
   margin-top: 10px;
+  height: auto;
 }
